@@ -1,2 +1,3 @@
 # Gylocoin
 Gylocoin
+GLC
